@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mine Sweeper</string>
+    <string name="mine">M</string>
+    <string name="won">You Won! Good Run!</string>
+    <string name="lost">You Lost! Good Try</string>
+</resources>
